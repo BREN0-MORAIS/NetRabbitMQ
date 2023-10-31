@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "45W20hw7cKtmkDw1OP0J4933qMBT0S6GdHO9cvQpUdm0iGx2ptZotGbVnL4p3crbZWEkdgOdorUC1NTVz+bGTA==",
+  "success": true,
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\Microservicos\\NetRabbitMQ\\NetRabbitMQ\\Prducer\\Prducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BENO\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\BENO\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\BENO\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

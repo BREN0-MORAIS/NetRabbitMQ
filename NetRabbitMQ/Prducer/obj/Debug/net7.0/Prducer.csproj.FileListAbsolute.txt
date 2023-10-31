@@ -1,0 +1,12 @@
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\bin\Debug\net7.0\Prducer.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\bin\Debug\net7.0\Prducer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\bin\Debug\net7.0\Prducer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\refint\Prducer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\Prducer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Prducer\obj\Debug\net7.0\ref\Prducer.dll

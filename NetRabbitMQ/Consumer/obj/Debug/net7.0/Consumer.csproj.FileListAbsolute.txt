@@ -1,0 +1,12 @@
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\bin\Debug\net7.0\Consumer.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\bin\Debug\net7.0\Consumer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\bin\Debug\net7.0\Consumer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\refint\Consumer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\Consumer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\Microservicos\NetRabbitMQ\NetRabbitMQ\Consumer\obj\Debug\net7.0\ref\Consumer.dll
