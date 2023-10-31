@@ -38,7 +38,7 @@ Projeto onde o objetivo é criar uma aplicação simples para enviar e receber m
        <th>Tipo</th>
        <th>Componente</th>
        <th>Versão</th>
-       <th>Download em</th>
+       <th>Download em                  </th>
        <th>Observação</th>
   </tr>
   <tr>
